@@ -8,5 +8,17 @@ html{
   
 
   body{
-    background-color: #E5E5E5;
+    background: #2C2141;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+   
+  }
+
+  .main{
+    background: #F8F8F8;
+    border-radius: 16px;
+    width: 624px;
+    padding: 32px;
   }
